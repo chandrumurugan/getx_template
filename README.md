@@ -1,0 +1,2 @@
+# getx_template
+getx_ecommerce_template
